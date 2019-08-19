@@ -1,23 +1,10 @@
 
-# Module 3 -  Final Project Specifications
+# SQL & Experimental Design - Project Specifications
 
 ## Introduction
 
-In this lesson, we'll review all the guidelines and specifications for the final project for Module 3.
+In this project, we'll run some experiments we design ourselves, based on data we pull from a database using SQL that we'll also write ourselves!
 
-## Objectives
-
-* Understand all required aspects of the Final Project for Module 3
-* Understand all required deliverables
-* Understand what constitutes a successful project
-
-### Final Project Summary
-
-Another module down--you're half way there!
-
-<img src='https://raw.githubusercontent.com/learn-co-curriculum/dsc-mod-3-project/master/halfway-there.gif'>
-
-For the culmination of Module 3, you just need to complete the final project!
 
 ### The Project
 
@@ -63,23 +50,4 @@ For this project, your jupyter notebook should meet the following specifications
 <br>
 * You should also include any other statistics that you find relevant to your analysis, such as effect size.
 
-### Blog Post Must-Haves
 
-Refer back to the [Blogging Guidelines](https://github.com/learn-co-curriculum/dsc-welcome-blogging) for the technical requirements and blog ideas.
-
-
-### Executive Summary Must-Haves
-
-Your presentation should:
-
-* Contain between 5-10 professional quality slides detailing:
-<br>  
-    * A high-level overview of your methodology  
-    <br>  
-    * The results of your hypothesis tests  
-    <br>  
-    * Any real-world recommendations you would like to make based on your findings (ask yourself--why should the executive team care about what you found? How can your findings help the company?)  
-    <br>  
-* Take no more than 5 minutes to present  
-<br>  
-* Avoid technical jargon and explain results in a clear, actionable way for non-technical audiences.  
